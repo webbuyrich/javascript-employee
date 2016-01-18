@@ -1,22 +1,22 @@
 [
 	{
-		"name" : "Aimee",
+		"name" : "Aimee Johnson",
 		"inoffice" : false
 	},
 	{
-		"name" : "Brian",
+		"name" : "Brian Harris",
 		"inoffice" : true
 	},
 	{
-		"name" : "Dink",
+		"name" : "Dink Harris",
 		"inoffice" : false
 	},
 	{
-		"name" : "Lee",
+		"name" : "Lee Harris",
 		"inoffice" : true
 	},
 	{
-		"name" : "Richard",
+		"name" : "Richard Harris",
 		"inoffice" : false
 	}
 	
