@@ -1,0 +1,46 @@
+[
+  {
+    "roomNumber": 116,
+    "available": "empty"
+  },
+  {
+    "roomNumber": 105,
+    "available": "empty"
+  },
+  {
+    "roomNumber": 112,
+    "available": "empty"
+  },
+  {
+    "roomNumber": 108,
+    "available": "empty"
+  },
+  {
+    "roomNumber": 121,
+    "available": "full"
+  },
+  {
+    "roomNumber": 114,
+    "available": "full"
+  },
+  {
+    "roomNumber": 105,
+    "available": "empty"
+  },
+  {
+    "roomNumber": 121,
+    "available": "full"
+  },
+  {
+    "roomNumber": 109,
+    "available": "empty"
+  },
+  {
+    "roomNumber": 122,
+    "available": "empty"
+  },
+  {
+    "roomNumber": 109,
+    "available": "full"
+  }
+]
